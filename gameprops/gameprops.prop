@@ -185,3 +185,7 @@ persist.sys.gameprops.com.proxima.dfm.BRAND?=Asus
 persist.sys.gameprops.com.proxima.dfm.DEVICE?=ROG Phone 6D
 persist.sys.gameprops.com.proxima.dfm.MANUFACTURER?=Asus
 persist.sys.gameprops.com.proxima.dfm.MODEL?=asus_ai2203_c
+persist.sys.gameprops.com.garena.game.kgvn.BRAND?=OnePlus
+persist.sys.gameprops.com.garena.game.kgvn.DEVICE?=OnePlus 13
+persist.sys.gameprops.com.garena.game.kgvn.MANUFACTURER?=OnePlus
+persist.sys.gameprops.com.garena.game.kgvn.MODEL?=PJZ110
